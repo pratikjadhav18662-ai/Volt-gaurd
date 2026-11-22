@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VoltGuard</string>
+    <string name="nav_charge">Charge</string>
+    <string name="nav_vehicles">Vehicles</string>
+    <string name="nav_alarm">Alarm</string>
+    <string name="charge_hero_subtitle">EV &amp; E-Bike 100% Charge Guard</string>
+    <string name="status_idle">Ready to Charge</string>
+    <string name="status_charging">Charging Active</string>
+    <string name="status_paused">Charging Paused</string>
+    <string name="status_full">100% Charged</string>
+    <string name="alarm_title_full">Vehicle Charged at %1$d%%!</string>
+    <string name="alarm_subtitle_unplug">Unplug your charger now to protect battery health.</string>
+    <string name="alarm_tts_message">Attention! Your %1$s is charged at %2$d percent. Please unplug your charger.</string>
+    <string name="btn_start_charging">Start Charge Monitor</string>
+    <string name="btn_pause_charging">Pause</string>
+    <string name="btn_resume_charging">Resume</string>
+    <string name="btn_stop_charging">Stop Session</string>
+    <string name="btn_dismiss_alarm">Dismiss Alarm</string>
+    <string name="btn_snooze_alarm">Snooze 5 Min</string>
+    <string name="btn_test_alarm">Test 100% Alarm</string>
+    <string name="btn_quick_demo">10s Quick Demo</string>
+    <string name="notif_channel_alarm_name">Full Charge Alarm</string>
+    <string name="notif_channel_alarm_desc">Loud alarm alerts when your EV or e-bike reaches target battery charge.</string>
+    <string name="notif_channel_monitor_name">Active Charging Status</string>
+    <string name="notif_channel_monitor_desc">Shows ongoing charging progress and estimated time to 100%.</string>
+    <string name="notif_action_stop_alarm">Stop Alarm</string>
+    <string name="perm_notif_banner_title">Enable Background Alerts</string>
+    <string name="perm_notif_banner_body">Allow notifications so VoltGuard can alert you when your vehicle reaches 100% even when the screen is off.</string>
+    <string name="perm_notif_button">Allow Alerts</string>
+</resources>
